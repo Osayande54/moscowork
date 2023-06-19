@@ -1,0 +1,19 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+.harmburger {
+  position: absolute;
+  right: 2%;
+  top: 20%;
+}
+.line{
+  background-color:  black;
+  width: 30px;
+  margin: 5px;
+  height: 3px;
+}
+.dough{
+    background-color: blue;
+}
